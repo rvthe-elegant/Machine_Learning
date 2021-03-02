@@ -1,0 +1,21 @@
+"property type(apartment, villa)",property sale(new/resale),Place,sq ft area,NoOfBedroom,Facing Direction,price,Furnishing Status
+Apartment,New,Nilgiris,931,2,East,6500000,Semi
+Residential Villa,Resale,Nilgiris,5800,4,?,50000000,Semi
+Residential Villa,New,Nilgiris,600,1,South-East,7200000,Unfurnished
+Residential Villa,New,Pune,2455,4,East,29500000,Unfurnished
+Residential Villa,Resale,Shimla,1100,7,East,20000000,Furnished
+Independent House,Resale,Hubli,7400,8,?,25000000,Furnished
+Apartment,Resale,Bangalore,2400,3,East,10000000,Furnished
+Farm House,Resale,Chennai,6500,7,?,70000000,?
+Villa,Resale,Nilgiris,6969.6,2,North,19000000,Furnished
+Apartment ,Resale,Pune,1311,2,West,7500000,Semi
+Independent House,New,Mysore,13793,12,North- west,35000000,Furnished
+Villa,New,Coonoor,1300,3,North,9670000,Semi
+Villa,Resale,Lovedale,600,2,East,2500000,Semi
+Villa,Resale,Yercaude,835,2,South,4500000,Unfurnished
+Villa ,Resale,Munnar,5300,5,North,80000000,Furnished
+Villa,New,Kotagiri,1000,2,East,8700000,Unfurnished
+Agricultural Land,New,Vellore,87120,?,?,20000000,?
+Apartment,New,Mumbai,3100,4,East,92500000,Unfurnished
+Apartment,Resale,Ahemdabad,4600,3,East,4000000,Unfurnished
+Villa,Resale,Kolhapur,5000,3,?,13500000,Furnished
